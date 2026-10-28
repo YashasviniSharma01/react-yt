@@ -1,4 +1,4 @@
-# React YT
+# React 
 
 This repository is a collection of React mini-projects and learning exercises inspired by YouTube-style tutorials. Each folder is an independent Vite React app covering a different topic or concept.
 
